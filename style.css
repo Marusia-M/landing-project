@@ -1,8 +1,50 @@
 body {
   font-family: "Roboto", sans-serif;
 }
-
-#glass {
+.brand {
+  font-size: 22px !important;
+}
+.brand-name {
+  font-size: 20px !important;
+}
+.glazing {
+  max-width: 140% !important;
+  height: auto;
+}
+.glass {
   max-width: 80% !important;
   height: auto;
+}
+.mirror {
+  max-width: 60% !important;
+  height: auto;
+}
+
+#identification {
+  font-size: 13px !important;
+}
+.about {
+  font-size: 18px;
+}
+.highlighted-text {
+  color: #3b3163;
+}
+.mb-3 {
+  color: #3b3163;
+}
+.order-link {
+  border-radius: 4px;
+  padding: 20px 15px;
+  text-decoration: none;
+  background: #b9bcbf;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+  color: rgb(26, 25, 25);
+}
+.order-link:hover {
+  background-color: #c7cace;
+  color: #3b3163;
+}
+.mail-link {
+  text-decoration: none;
+  color: #3b3163;
 }
