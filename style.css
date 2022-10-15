@@ -56,5 +56,22 @@ body {
   margin-bottom: 80px;
 }
 .active {
+  color: #3b3163 !important;
+}
+.cv-link {
+  border-radius: 4px;
+  padding: 20px 15px;
+  text-decoration: none;
+  background: #3b3163;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+  color: white;
+}
+.cv-link:hover {
+  background-color: #41366d;
+  color: rgb(254, 233, 206);
+}
+.mail-link-2 {
+  text-decoration: none;
   color: #3b3163;
+  font-size: 30px;
 }
