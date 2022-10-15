@@ -55,3 +55,6 @@ body {
   margin-top: 80px;
   margin-bottom: 80px;
 }
+.active {
+  color: #3b3163;
+}
